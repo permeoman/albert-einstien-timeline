@@ -2,7 +2,8 @@
 #heading {
     display: block;
     text-align:center;
-    padding: 20px;
+    padding-left: auto;
+    padding-right: auto;
     }
 
 .image {
