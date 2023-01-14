@@ -1,15 +1,16 @@
 
-
 #heading {
     display: block;
     text-align:center;
-    padding: 10px;
+    padding: 20px;
     }
 
 .image {
     display: block;
     margin-left: auto;
+    margin-right: auto;
     width: 40%;
+    padding-right: 40px;
     }
 
 .caption {
