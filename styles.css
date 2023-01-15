@@ -14,7 +14,7 @@
 .caption {
     text-align: center;
     padding-left: 40px;
-    padding-top: 10px;
+    padding-top: 5px;
     padding-bottom: 5px;
     }
 
@@ -32,6 +32,7 @@
 
 .timeline {
     text-align: center;
+    padding-left: 10%;
     }
 
 #event {
